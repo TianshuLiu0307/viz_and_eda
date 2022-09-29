@@ -1,0 +1,10 @@
+---
+title: "viz_part_1"
+author: "Tianshu Liu"
+date: "2022-09-29"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
